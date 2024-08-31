@@ -1,4 +1,4 @@
-IT21314988-lab1 ex.2
+IT21312694-lab1 ex.2
 --------------
 Q1: What happens when the number of hidden nodes increase? 
 A1: Model tries to overfit.
